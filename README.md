@@ -21,7 +21,7 @@
 ---|:---:|---:
 1|9 пингвинов и еще 4 задания| [здесь 5 заданий](https://github.com/Polina2608/python-dh-hw/blob/master/HW1.ipynb)
 2|Второе дз, состоящее из трех заданий|[здесь 3 задания](https://github.com/Polina2608/python-dh-hw/blob/master/HW2.ipynb) 
-3||
+3|Третье домашнее задание с компьтерной лингвистикой| [здесь 3 задания](https://github.com/Polina2608/python-dh-hw/blob/master/HW3.ipynb)
 4||
 5||
 6||
